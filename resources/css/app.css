@@ -1,0 +1,9 @@
+h2{
+  background-color: blueviolet;
+  color:rgb(0, 179, 255);
+}
+
+body{
+  background-image: URL('/images/body1.jpg');
+}
+
