@@ -14,3 +14,4 @@ Note: Feel free to modify the rules as you see fit.
 
 Project made with HTML, PHP Laravel, JavaScript, and CSS.💕
 
+![GitHub principais linguagens](https://img.shields.io/github/languages/top/Lorena-Gandra/jogosSuperScrum)
